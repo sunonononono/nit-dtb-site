@@ -1,0 +1,16 @@
+{
+  "id": "giraffe",
+  "name": "キリン",
+  "image": "images/animals/giraffe/thumb.png",
+  "description": "首が長く、特殊な置き方が求められるどうぶつ。",
+  "static_placements": [
+    {
+      "direction": "左向き",
+      "advice": "首を利用した攻めができる。"
+    },
+    {
+      "direction": "右向き",
+      "advice": "重心が高く不安定。"
+    }
+  ]
+}

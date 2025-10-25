@@ -1,0 +1,12 @@
+[
+  {
+    "id": "elephant",
+    "name": "ゾウ",
+    "image": "images/animals/elephant/thumb.png" 
+  },
+  {
+    "id": "giraffe",
+    "name": "キリン",
+    "image": "images/animals/giraffe/thumb.png"
+  }
+]
