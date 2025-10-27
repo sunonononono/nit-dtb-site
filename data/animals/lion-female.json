@@ -1,0 +1,21 @@
+{
+  "id": "lion-female",
+  "name": "ライオン（メス）",
+  "image": "images/animals/lion-female/full.png",
+  "description": "ライオン（メス） の解説をここに入力します。",
+  "static_placements": [
+    {
+      "direction": "右向き (0度)",
+      "advice": "安定している。",
+      "angle": 0,
+      "screenshots": []
+    },
+    {
+      "direction": "左向き (180度)",
+      "advice": "攻め手として強い。",
+      "angle": 180,
+      "screenshots": []
+    }
+  ],
+  "interactive_placements": []
+}

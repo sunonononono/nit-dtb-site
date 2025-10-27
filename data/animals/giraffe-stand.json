@@ -1,6 +1,6 @@
 {
-  "id": "giraffe",
-  "name": "キリン",
+  "id": "giraffe-stand",
+  "name": "キリン（立ち）",
   "image": "images/animals/giraffe-stand/thumb.png",
   "description": "首が長く、特殊な置き方が求められるどうぶつ。",
   "static_placements": [

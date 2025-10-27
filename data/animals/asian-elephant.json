@@ -1,6 +1,6 @@
 {
-  "id": "elephant",
-  "name": "ゾウ",
+  "id": "asian-elephant",
+  "name": "アジアゾウ",
   "image": "images/animals/asian-elephant/thumb.png",
   "description": "非常に重く、安定した土台になるどうぶつ。",
   "static_placements": [
