@@ -1,12 +1,248 @@
 [
   {
-    "id": "elephant",
-    "name": "ゾウ",
-    "image": "images/animals/elephant/thumb.png" 
+    "id": "alpaca",
+    "name": "アルパカ",
+    "image": "images/animals/alpaca/thumb.png",
+    "category": "small"
   },
   {
-    "id": "giraffe",
-    "name": "キリン",
-    "image": "images/animals/giraffe/thumb.png"
+    "id": "toco-toucan",
+    "name": "オニオオハシ",
+    "image": "images/animals/toco-toucan/thumb.png",
+    "category": "small"
+  },
+  {
+    "id": "sea-turtle",
+    "name": "カメ",
+    "image": "images/animals/sea-turtle/thumb.png",
+    "category": "small"
+  },
+  {
+    "id": "kangaroo",
+    "name": "カンガルー",
+    "image": "images/animals/kangaroo/thumb.png",
+    "category": "small"
+  },
+  {
+    "id": "fox",
+    "name": "キタキツネ",
+    "image": "images/animals/fox/thumb.png",
+    "category": "small"
+  },
+  {
+    "id": "koala",
+    "name": "コアラ",
+    "image": "images/animals/koala/thumb.png",
+    "category": "small"
+  },
+  {
+    "id": "ostrich",
+    "name": "ダチョウ",
+    "image": "images/animals/ostrich/thumb.png",
+    "category": "small"
+  },
+  {
+    "id": "gibbon",
+    "name": "テナガザル",
+    "image": "images/animals/gibbon/thumb.png",
+    "category": "small"
+  },
+  {
+    "id": "hedgehog",
+    "name": "ハリネズミ",
+    "image": "images/animals/hedgehog/thumb.png",
+    "category": "small"
+  },
+  {
+    "id": "chick",
+    "name": "ヒヨコ",
+    "image": "images/animals/chick/thumb.png",
+    "category": "small"
+  },
+  {
+    "id": "fennec-fox",
+    "name": "フェネック",
+    "image": "images/animals/fennec-fox/thumb.png",
+    "category": "small"
+  },
+  {
+    "id": "pelican",
+    "name": "ペリカン",
+    "image": "images/animals/pelican/thumb.png",
+    "category": "small"
+  },
+  {
+    "id": "penguin",
+    "name": "ペンギン",
+    "image": "images/animals/penguin/thumb.png",
+    "category": "small"
+  },
+  {
+    "id": "meerkat",
+    "name": "ミーアキャット",
+    "image": "images/animals/meerkat/thumb.png",
+    "category": "small"
+  },
+  {
+    "id": "red-panda",
+    "name": "レッサーパンダ",
+    "image": "images/animals/red-panda/thumb.png",
+    "category": "small"
+  },
+  {
+    "id": "arabian-oryx",
+    "name": "アラビアオリックス",
+    "image": "images/animals/arabian-oryx/thumb.png",
+    "category": "medium"
+  },
+  {
+    "id": "dolphin",
+    "name": "イルカ",
+    "image": "images/animals/dolphin/thumb.png",
+    "category": "medium"
+  },
+  {
+    "id": "cow",
+    "name": "ウシ",
+    "image": "images/animals/cow/thumb.png",
+    "category": "medium"
+  },
+  {
+    "id": "horse",
+    "name": "ウマ",
+    "image": "images/animals/horse/thumb.png",
+    "category": "medium"
+  },
+  {
+    "id": "wolf",
+    "name": "オオカミ",
+    "image": "images/animals/wolf/thumb.png",
+    "category": "medium"
+  },
+  {
+    "id": "okapi",
+    "name": "オカピ",
+    "image": "images/animals/okapi/thumb.png",
+    "category": "medium"
+  },
+  {
+    "id": "hippopotamus",
+    "name": "カバ",
+    "image": "images/animals/hippopotamus/thumb.png",
+    "category": "medium"
+  },
+  {
+    "id": "capybara",
+    "name": "カピバラ",
+    "image": "images/animals/capybara/thumb.png",
+    "category": "medium"
+  },
+  {
+    "id": "california-sea-lion",
+    "name": "カリフォルニアアシカ",
+    "image": "images/animals/california-sea-lion/thumb.png",
+    "category": "medium"
+  },
+  {
+    "id": "rhinoceros",
+    "name": "サイ",
+    "image": "images/animals/rhinoceros/thumb.png",
+    "category": "medium"
+  },
+  {
+    "id": "zebra",
+    "name": "シマウマ",
+    "image": "images/animals/zebra/thumb.png",
+    "category": "medium"
+  },
+  {
+    "id": "reindeer",
+    "name": "トナカイ",
+    "image": "images/animals/reindeer/thumb.png",
+    "category": "medium"
+  },
+  {
+    "id": "hyena",
+    "name": "ハイエナ",
+    "image": "images/animals/hyrna/thumb.png",
+    "category": "medium"
+  },
+  {
+    "id": "panda",
+    "name": "パンダ",
+    "image": "images/animals/panda/thumb.png",
+    "category": "medium"
+  },
+  {
+    "id": "leopard",
+    "name": "ヒョウ",
+    "image": "images/animals/leopard/thumb.png",
+    "category": "medium"
+  },
+  {
+    "id": "white-tiger",
+    "name": "ホワイトタイガー",
+    "image": "images/animals/white-tiger/thumb.png",
+    "category": "medium"
+  },
+  {
+    "id": "sandbar-shark",
+    "name": "メジロザメ",
+    "image": "images/animals/sandbar-shark/thumb.png",
+    "category": "medium"
+  },
+  {
+    "id": "lion-male",
+    "name": "ライオン（オス）",
+    "image": "images/animals/lion-male/thumb.png",
+    "category": "medium"
+  },
+  {
+    "id": "lion-female",
+    "name": "ライオン（メス）",
+    "image": "images/animals/lion-female/thumb.png",
+    "category": "medium"
+  },
+  {
+    "id": "camel",
+    "name": "ラクダ",
+    "image": "images/animals/camel/thumb.png",
+    "category": "medium"
+  },
+  {
+    "id": "donkey",
+    "name": "ロバ",
+    "image": "images/animals/donkey/thumb.png",
+    "category": "medium"
+  },
+  {
+    "id": "asian-elephant",
+    "name": "アジアゾウ",
+    "image": "images/animals/asian-elephant/thumb.png",
+    "category": "large"
+  },
+  {
+    "id": "giraffe-stand",
+    "name": "キリン（立ち）",
+    "image": "images/animals/giraffe-stand/thumb.png",
+    "category": "large"
+  },
+  {
+    "id": "giraffe-sit",
+    "name": "キリン（座り）",
+    "image": "images/animals/giraffe-sit/thumb.png",
+    "category": "large"
+  },
+  {
+    "id": "orca",
+    "name": "シャチ",
+    "image": "images/animals/orca/thumb.png",
+    "category": "large"
+  },
+  {
+    "id": "polar-bear",
+    "name": "ホッキョクグマ",
+    "image": "images/animals/polar-bear/thumb.png",
+    "category": "large"
   }
 ]

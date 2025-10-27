@@ -1,0 +1,23 @@
+{
+  "id": "elephant",
+  "name": "ゾウ",
+  "image": "images/animals/asian-elephant/thumb.png",
+  "description": "非常に重く、安定した土台になるどうぶつ。",
+  "static_placements": [
+    {
+      "angle": 0,
+      "direction": "左向き",
+      "advice": "攻め手として強い。",
+      "screenshots": [
+        "images/animals/asian-elephant/scsh_0_1.png",
+        "images/animals/asian-elephant/scsh_0_2.png"
+      ]
+    },
+    {
+      "angle": 45,
+      "direction": "右向き",
+      "advice": "安定している。",
+      "screenshots": []
+    }
+  ]
+}

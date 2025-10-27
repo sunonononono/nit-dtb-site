@@ -1,0 +1,34 @@
+/* どうぶつ一覧グリッド */
+.animal-grid {
+    display: grid;
+    /* 画面幅に応じて、1列に収まる最小幅(120px)で自動的に列数を調整する */
+    grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+    gap: 15px; /* どうぶつ間の隙間 */
+}
+
+/* どうぶつ単体のリンクアイテム */
+.animal-link-item {
+    text-decoration: none; /* リンクの下線を消す */
+    color: #333; /* 文字色 */
+    text-align: center;
+    border: 1px solid #eee;
+    border-radius: 8px;
+    padding: 10px;
+    transition: background-color 0.2s;
+}
+
+.animal-link-item:hover {
+    background-color: #f9f9f9; /* ホバー時に背景色を薄く変える */
+}
+
+.animal-link-item img {
+    width: 100px;
+    height: 100px;
+    object-fit: contain;
+}
+
+.animal-link-item p {
+    margin: 5px 0 0 0; /* 画像と名前の間のマージン */
+    font-size: 14px;
+    font-weight: bold;
+}
