@@ -2,7 +2,7 @@
 .animal-grid {
     display: grid;
     /* 画面幅に応じて、1列に収まる最小幅(120px)で自動的に列数を調整する */
-    grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(110px, 1fr));
     gap: 15px; /* どうぶつ間の隙間 */
 }
 
@@ -13,7 +13,7 @@
     text-align: center;
     border: 1px solid #eee;
     border-radius: 8px;
-    padding: 10px;
+    padding: 5px;
     transition: background-color 0.2s;
 }
 
@@ -23,7 +23,7 @@
 
 .animal-link-item img {
     width: 100px;
-    height: 100px;
+    height: auto;
     object-fit: contain;
 }
 
