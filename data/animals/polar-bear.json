@@ -1,7 +1,7 @@
 {
   "id": "polar-bear",
   "name": "ホッキョクグマ",
-  "image": "images/animals/polar-bear/full.png",
+  "image": "images/animals/polar-bear/thumb.png",
   "description": "ホッキョクグマ の解説をここに入力します。",
   "static_placements": [
     {

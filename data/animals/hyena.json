@@ -1,7 +1,7 @@
 {
   "id": "hyena",
   "name": "ハイエナ",
-  "image": "images/animals/hyrna/full.png",
+  "image": "images/animals/hyena/thumb.png",
   "description": "ハイエナ の解説をここに入力します。",
   "static_placements": [
     {
@@ -13,7 +13,7 @@
     {
       "direction": "左向き (180度)",
       "advice": "攻め手として強い。",
-      "angle": 180,
+      "angle": 45,
       "screenshots": []
     }
   ],

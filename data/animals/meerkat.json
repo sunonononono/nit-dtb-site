@@ -1,7 +1,7 @@
 {
   "id": "meerkat",
   "name": "ミーアキャット",
-  "image": "images/animals/meerkat/full.png",
+  "image": "images/animals/meerkat/thumb.png",
   "description": "ミーアキャット の解説をここに入力します。",
   "static_placements": [
     {

@@ -1,7 +1,7 @@
 {
   "id": "panda",
   "name": "パンダ",
-  "image": "images/animals/panda/full.png",
+  "image": "images/animals/panda/thumb.png",
   "description": "パンダ の解説をここに入力します。",
   "static_placements": [
     {

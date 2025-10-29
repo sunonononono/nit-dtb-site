@@ -1,7 +1,7 @@
 {
   "id": "cow",
   "name": "ウシ",
-  "image": "images/animals/cow/full.png",
+  "image": "images/animals/cow/thumb.png",
   "description": "ウシ の解説をここに入力します。",
   "static_placements": [
     {

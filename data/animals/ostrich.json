@@ -1,7 +1,7 @@
 {
   "id": "ostrich",
   "name": "ダチョウ",
-  "image": "images/animals/ostrich/full.png",
+  "image": "images/animals/ostrich/thumb.png",
   "description": "ダチョウ の解説をここに入力します。",
   "static_placements": [
     {

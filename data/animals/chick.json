@@ -1,7 +1,7 @@
 {
   "id": "chick",
   "name": "ヒヨコ",
-  "image": "images/animals/chick/full.png",
+  "image": "images/animals/chick/thumb.png",
   "description": "ヒヨコ の解説をここに入力します。",
   "static_placements": [
     {

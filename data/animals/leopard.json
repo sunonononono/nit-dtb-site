@@ -1,7 +1,7 @@
 {
   "id": "leopard",
   "name": "ヒョウ",
-  "image": "images/animals/leopard/full.png",
+  "image": "images/animals/leopard/thumb.png",
   "description": "ヒョウ の解説をここに入力します。",
   "static_placements": [
     {

@@ -1,7 +1,7 @@
 {
   "id": "wolf",
   "name": "オオカミ",
-  "image": "images/animals/wolf/full.png",
+  "image": "images/animals/wolf/thumb.png",
   "description": "オオカミ の解説をここに入力します。",
   "static_placements": [
     {

@@ -1,7 +1,7 @@
 {
   "id": "alpaca",
   "name": "アルパカ",
-  "image": "images/animals/alpaca/full.png",
+  "image": "images/animals/alpaca/thumb.png",
   "description": "アルパカ の解説をここに入力します。",
   "static_placements": [
     {

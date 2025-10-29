@@ -1,7 +1,7 @@
 {
   "id": "lion-female",
   "name": "ライオン（メス）",
-  "image": "images/animals/lion-female/full.png",
+  "image": "images/animals/lion-female/thumb.png",
   "description": "ライオン（メス） の解説をここに入力します。",
   "static_placements": [
     {

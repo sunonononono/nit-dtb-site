@@ -1,7 +1,7 @@
 {
   "id": "donkey",
   "name": "ロバ",
-  "image": "images/animals/donkey/full.png",
+  "image": "images/animals/donkey/thumb.png",
   "description": "ロバ の解説をここに入力します。",
   "static_placements": [
     {

@@ -5,14 +5,17 @@
   "description": "首が長く、特殊な置き方が求められるどうぶつ。",
   "static_placements": [
     {
+      "direction": "右向き (0度)",
+      "advice": "安定している。",
       "angle": 0,
-      "direction": "左向き",
-      "advice": "首を利用した攻めができる。"
+      "screenshots": []
     },
     {
-      "angle": 180,
-      "direction": "右向き",
-      "advice": "重心が高く不安定。"
+      "direction": "左向き (180度)",
+      "advice": "攻め手として強い。",
+      "angle": 45,
+      "screenshots": []
     }
-  ]
+  ],
+  "interactive_placements": []
 }

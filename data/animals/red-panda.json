@@ -1,7 +1,7 @@
 {
   "id": "red-panda",
   "name": "レッサーパンダ",
-  "image": "images/animals/red-panda/full.png",
+  "image": "images/animals/red-panda/thumb.png",
   "description": "レッサーパンダ の解説をここに入力します。",
   "static_placements": [
     {

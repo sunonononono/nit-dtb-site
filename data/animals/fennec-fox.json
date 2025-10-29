@@ -1,7 +1,7 @@
 {
   "id": "fennec-fox",
   "name": "フェネック",
-  "image": "images/animals/fennec-fox/full.png",
+  "image": "images/animals/fennec-fox/thumb.png",
   "description": "フェネック の解説をここに入力します。",
   "static_placements": [
     {

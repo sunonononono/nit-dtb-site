@@ -1,7 +1,7 @@
 {
   "id": "hippopotamus",
   "name": "カバ",
-  "image": "images/animals/hippopotamus/full.png",
+  "image": "images/animals/hippopotamus/thumb.png",
   "description": "カバ の解説をここに入力します。",
   "static_placements": [
     {

@@ -1,7 +1,7 @@
 {
   "id": "toco-toucan",
   "name": "オニオオハシ",
-  "image": "images/animals/toco-toucan/full.png",
+  "image": "images/animals/toco-toucan/thumb.png",
   "description": "オニオオハシ の解説をここに入力します。",
   "static_placements": [
     {

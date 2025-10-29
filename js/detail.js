@@ -52,7 +52,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     imageWrapper.style.alignItems = 'center';
                     imageWrapper.style.overflow = 'hidden'; // 回転ではみ出たら隠す
 
-                    imageWrapper.style.backgroundColor = '#ffaaff';
+                    imageWrapper.style.backgroundColor = '#67ccf6';
 
                     // 2. 画像（img）を作成 ★これが回転する
                     const imgElement = document.createElement('img');

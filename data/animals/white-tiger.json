@@ -1,7 +1,7 @@
 {
   "id": "white-tiger",
   "name": "ホワイトタイガー",
-  "image": "images/animals/white-tiger/full.png",
+  "image": "images/animals/white-tiger/thumb.png",
   "description": "ホワイトタイガー の解説をここに入力します。",
   "static_placements": [
     {

@@ -1,7 +1,7 @@
 {
   "id": "koala",
   "name": "コアラ",
-  "image": "images/animals/koala/full.png",
+  "image": "images/animals/koala/thumb.png",
   "description": "コアラ の解説をここに入力します。",
   "static_placements": [
     {

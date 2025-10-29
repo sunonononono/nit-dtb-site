@@ -1,7 +1,7 @@
 {
   "id": "sea-turtle",
   "name": "カメ",
-  "image": "images/animals/sea-turtle/full.png",
+  "image": "images/animals/sea-turtle/thumb.png",
   "description": "カメ の解説をここに入力します。",
   "static_placements": [
     {

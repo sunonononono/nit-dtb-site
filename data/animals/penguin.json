@@ -1,7 +1,7 @@
 {
   "id": "penguin",
   "name": "ペンギン",
-  "image": "images/animals/penguin/full.png",
+  "image": "images/animals/penguin/thumb.png",
   "description": "ペンギン の解説をここに入力します。",
   "static_placements": [
     {

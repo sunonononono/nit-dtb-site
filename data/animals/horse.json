@@ -1,7 +1,7 @@
 {
   "id": "horse",
   "name": "ウマ",
-  "image": "images/animals/horse/full.png",
+  "image": "images/animals/horse/thumb.png",
   "description": "ウマ の解説をここに入力します。",
   "static_placements": [
     {

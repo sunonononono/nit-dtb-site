@@ -1,7 +1,7 @@
 {
   "id": "rhinoceros",
   "name": "サイ",
-  "image": "images/animals/rhinoceros/full.png",
+  "image": "images/animals/rhinoceros/thumb.png",
   "description": "サイ の解説をここに入力します。",
   "static_placements": [
     {

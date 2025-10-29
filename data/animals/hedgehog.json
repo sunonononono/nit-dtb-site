@@ -1,7 +1,7 @@
 {
   "id": "hedgehog",
   "name": "ハリネズミ",
-  "image": "images/animals/hedgehog/full.png",
+  "image": "images/animals/hedgehog/thumb.png",
   "description": "ハリネズミ の解説をここに入力します。",
   "static_placements": [
     {

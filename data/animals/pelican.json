@@ -1,7 +1,7 @@
 {
   "id": "pelican",
   "name": "ペリカン",
-  "image": "images/animals/pelican/full.png",
+  "image": "images/animals/pelican/thumb.png",
   "description": "ペリカン の解説をここに入力します。",
   "static_placements": [
     {

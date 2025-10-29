@@ -1,7 +1,7 @@
 {
   "id": "sandbar-shark",
   "name": "メジロザメ",
-  "image": "images/animals/sandbar-shark/full.png",
+  "image": "images/animals/sandbar-shark/thumb.png",
   "description": "メジロザメ の解説をここに入力します。",
   "static_placements": [
     {

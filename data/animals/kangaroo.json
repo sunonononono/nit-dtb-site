@@ -1,7 +1,7 @@
 {
   "id": "kangaroo",
   "name": "カンガルー",
-  "image": "images/animals/kangaroo/full.png",
+  "image": "images/animals/kangaroo/thumb.png",
   "description": "カンガルー の解説をここに入力します。",
   "static_placements": [
     {

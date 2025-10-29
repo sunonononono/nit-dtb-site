@@ -1,7 +1,7 @@
 {
   "id": "camel",
   "name": "ラクダ",
-  "image": "images/animals/camel/full.png",
+  "image": "images/animals/camel/thumb.png",
   "description": "ラクダ の解説をここに入力します。",
   "static_placements": [
     {

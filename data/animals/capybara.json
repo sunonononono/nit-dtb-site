@@ -1,7 +1,7 @@
 {
   "id": "capybara",
   "name": "カピバラ",
-  "image": "images/animals/capybara/full.png",
+  "image": "images/animals/capybara/thumb.png",
   "description": "カピバラ の解説をここに入力します。",
   "static_placements": [
     {
